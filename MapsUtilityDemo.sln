@@ -1,8 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapsUtilityDemo", "MapsUtilityDemo\MapsUtilityDemo.csproj", "{AFA0F6B2-74F1-432B-9926-C8474B873B58}"
-EndProject
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapsUtility", "GoogleMapsUtility\GoogleMapsUtility.csproj", "{23E74366-695C-4563-A3E6-B0E704057167}"
 EndProject
 Global
@@ -15,10 +15,9 @@ Global
 		{23E74366-695C-4563-A3E6-B0E704057167}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23E74366-695C-4563-A3E6-B0E704057167}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23E74366-695C-4563-A3E6-B0E704057167}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AFA0F6B2-74F1-432B-9926-C8474B873B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AFA0F6B2-74F1-432B-9926-C8474B873B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AFA0F6B2-74F1-432B-9926-C8474B873B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AFA0F6B2-74F1-432B-9926-C8474B873B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = MapsUtilityDemo\MapsUtilityDemo.csproj

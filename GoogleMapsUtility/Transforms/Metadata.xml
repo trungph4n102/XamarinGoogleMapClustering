@@ -1,5 +1,6 @@
 ﻿<metadata>
 	<remove-node path="/api/package[starts-with(@name, 'com.google.maps.android.heatmaps')]" />
+  <remove-node path="/api/package[starts-with(@name, 'com.google.ads')]" />
 
 	<attr path="/api/package[@name='com.google.maps.android']" name="managedName">Android.Gms.Maps.Utils</attr>
     <attr path="/api/package[@name='com.google.maps.android.clustering']" name="managedName">Android.Gms.Maps.Utils.Clustering</attr>
