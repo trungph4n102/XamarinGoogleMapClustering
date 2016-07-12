@@ -1,6 +1,6 @@
 ﻿This directory is for Android .jars.
 
-There are 3 types of jars that are supported:
+There are 4 types of jars that are supported:
 
 == Input Jar and Embedded Jar ==
 
