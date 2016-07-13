@@ -1,5 +1,4 @@
-﻿using System;
-using Android.Gms.Maps.Model;
+﻿using Android.Gms.Maps.Model;
 using Com.Google.Maps.Android.Clustering;
 
 namespace GoogleMapClusteringExample

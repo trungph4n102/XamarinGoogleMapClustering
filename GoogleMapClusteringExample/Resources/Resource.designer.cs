@@ -1717,8 +1717,8 @@ namespace GoogleMapClusteringExample
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0d005f
-			public const int action0 = 2131558495;
+			// aapt resource value: 0x7f0d005e
+			public const int action0 = 2131558494;
 			
 			// aapt resource value: 0x7f0d004d
 			public const int action_bar = 2131558477;
@@ -1744,8 +1744,8 @@ namespace GoogleMapClusteringExample
 			// aapt resource value: 0x7f0d004e
 			public const int action_context_bar = 2131558478;
 			
-			// aapt resource value: 0x7f0d0063
-			public const int action_divider = 2131558499;
+			// aapt resource value: 0x7f0d0062
+			public const int action_divider = 2131558498;
 			
 			// aapt resource value: 0x7f0d0002
 			public const int action_menu_divider = 2131558402;
@@ -1786,14 +1786,14 @@ namespace GoogleMapClusteringExample
 			// aapt resource value: 0x7f0d0037
 			public const int buttonPanel = 2131558455;
 			
-			// aapt resource value: 0x7f0d0060
-			public const int cancel_action = 2131558496;
+			// aapt resource value: 0x7f0d005f
+			public const int cancel_action = 2131558495;
 			
 			// aapt resource value: 0x7f0d0045
 			public const int checkbox = 2131558469;
 			
-			// aapt resource value: 0x7f0d0066
-			public const int chronometer = 2131558502;
+			// aapt resource value: 0x7f0d0065
+			public const int chronometer = 2131558501;
 			
 			// aapt resource value: 0x7f0d0029
 			public const int collapseActionView = 2131558441;
@@ -1825,8 +1825,8 @@ namespace GoogleMapClusteringExample
 			// aapt resource value: 0x7f0d0026
 			public const int end = 2131558438;
 			
-			// aapt resource value: 0x7f0d006a
-			public const int end_padder = 2131558506;
+			// aapt resource value: 0x7f0d0069
+			public const int end_padder = 2131558505;
 			
 			// aapt resource value: 0x7f0d0031
 			public const int expand_activities_button = 2131558449;
@@ -1855,17 +1855,17 @@ namespace GoogleMapClusteringExample
 			// aapt resource value: 0x7f0d0032
 			public const int image = 2131558450;
 			
-			// aapt resource value: 0x7f0d0069
-			public const int info = 2131558505;
+			// aapt resource value: 0x7f0d0068
+			public const int info = 2131558504;
 			
 			// aapt resource value: 0x7f0d0014
 			public const int light = 2131558420;
 			
-			// aapt resource value: 0x7f0d0064
-			public const int line1 = 2131558500;
+			// aapt resource value: 0x7f0d0063
+			public const int line1 = 2131558499;
 			
-			// aapt resource value: 0x7f0d0068
-			public const int line3 = 2131558504;
+			// aapt resource value: 0x7f0d0067
+			public const int line3 = 2131558503;
 			
 			// aapt resource value: 0x7f0d0017
 			public const int listMode = 2131558423;
@@ -1873,20 +1873,17 @@ namespace GoogleMapClusteringExample
 			// aapt resource value: 0x7f0d0034
 			public const int list_item = 2131558452;
 			
-			// aapt resource value: 0x7f0d005e
-			public const int map = 2131558494;
+			// aapt resource value: 0x7f0d005d
+			public const int map = 2131558493;
 			
-			// aapt resource value: 0x7f0d0062
-			public const int media_actions = 2131558498;
+			// aapt resource value: 0x7f0d0061
+			public const int media_actions = 2131558497;
 			
 			// aapt resource value: 0x7f0d0027
 			public const int middle = 2131558439;
 			
 			// aapt resource value: 0x7f0d0020
 			public const int multiply = 2131558432;
-			
-			// aapt resource value: 0x7f0d005d
-			public const int myButton = 2131558493;
 			
 			// aapt resource value: 0x7f0d002b
 			public const int never = 2131558443;
@@ -1987,8 +1984,8 @@ namespace GoogleMapClusteringExample
 			// aapt resource value: 0x7f0d0010
 			public const int standard = 2131558416;
 			
-			// aapt resource value: 0x7f0d0061
-			public const int status_bar_latest_event_content = 2131558497;
+			// aapt resource value: 0x7f0d0060
+			public const int status_bar_latest_event_content = 2131558496;
 			
 			// aapt resource value: 0x7f0d0058
 			public const int submit_area = 2131558488;
@@ -2002,14 +1999,14 @@ namespace GoogleMapClusteringExample
 			// aapt resource value: 0x7f0d0009
 			public const int text = 2131558409;
 			
-			// aapt resource value: 0x7f0d0067
-			public const int text2 = 2131558503;
+			// aapt resource value: 0x7f0d0066
+			public const int text2 = 2131558502;
 			
 			// aapt resource value: 0x7f0d0040
 			public const int textSpacerNoButtons = 2131558464;
 			
-			// aapt resource value: 0x7f0d0065
-			public const int time = 2131558501;
+			// aapt resource value: 0x7f0d0064
+			public const int time = 2131558500;
 			
 			// aapt resource value: 0x7f0d0036
 			public const int title = 2131558454;
@@ -2026,8 +2023,8 @@ namespace GoogleMapClusteringExample
 			// aapt resource value: 0x7f0d001e
 			public const int useLogo = 2131558430;
 			
-			// aapt resource value: 0x7f0d006b
-			public const int webview = 2131558507;
+			// aapt resource value: 0x7f0d006a
+			public const int webview = 2131558506;
 			
 			// aapt resource value: 0x7f0d0011
 			public const int wide = 2131558417;
